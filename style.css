@@ -98,12 +98,35 @@ h3{
 	float: center;
 	margin-top: -20px;
 	font-family: 'Roboto', sans-serif;
+	color: #c6a175;
 
 }
-h4{	
+.content h4{	
 	text-align: center;
-	font-size: 17px;
+	font-size: 15px;
 	font-family: 'Cormorant',  serif;
-	color: #838383;
-	color: black;
+	color: #b592a2;	
 }
+.row{
+	text-align: center;
+
+}
+.row a{
+	text-align: center;
+	font-size: 20px;
+	color: black;
+	text-decoration: none;
+
+}
+.row a img{
+	width: 100%;
+}
+.row a:hover{
+	color: grey;
+}
+.row a img:hover{
+	background: grey;
+}
+.price{
+	font-size: small;
+}}
