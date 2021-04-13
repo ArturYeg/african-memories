@@ -124,9 +124,14 @@ h3{
 .row a:hover{
 	color: grey;
 }
-.row a img:hover{
+.row  img:hover{
 	background: grey;
 }
 .price{
 	font-size: small;
-}}
+}
+#button{
+	height: 60px;
+	width: 200px;
+	justify-content: center;
+}
