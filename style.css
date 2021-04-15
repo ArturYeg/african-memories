@@ -130,8 +130,24 @@ h3{
 .price{
 	font-size: small;
 }
-#button{
-	height: 60px;
-	width: 200px;
+.button{
+	height: 50px;
+	width: 120px;
 	justify-content: center;
+	background-color: #caac7c;
+	font-size: 12px;
+	margin-left: 600px;
+	margin-top: 50px;
+	border: none;
+	cursor: pointer;
+}
+.wrd{
+	text-align: center;
+	font-size: 14px;
+}
+.footer{
+	background: #f8f8f8;
+}
+.footer	menu{
+	display: block;
 }
