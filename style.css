@@ -150,6 +150,7 @@ h3{
 }
 .footer{
 	background: #f8f8f8;
+	padding:40px;
 	
 }
 .row ul{
@@ -163,5 +164,5 @@ h3{
 	
 }
 col p1{
-	float: left4;
+	float: left;
 }
