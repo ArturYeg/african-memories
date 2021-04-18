@@ -141,6 +141,9 @@ h3{
 	border: none;
 	cursor: pointer;
 }
+.button:hover{
+	background-color: #aa9069;
+}
 .wrd{
 	text-align: center;
 	font-size: 14px;
