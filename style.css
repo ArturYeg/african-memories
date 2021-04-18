@@ -150,7 +150,18 @@ h3{
 }
 .footer{
 	background: #f8f8f8;
+	
 }
-.footer	menu{
-	display: block;
+.row ul{
+	display: inline-block;
+	list-style: none;
+	box-sizing: border-box;
+}
+.col img{
+	width: 150px;
+
+	
+}
+col p1{
+	float: left4;
 }
